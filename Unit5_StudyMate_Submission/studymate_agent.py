@@ -1,9 +1,3 @@
-
-"""
-StudyMate: education-domain safety-first agent.
-Uses synthetic data only and Python standard library.
-Run: python studymate_agent.py
-"""
 from pathlib import Path
 import re
 
