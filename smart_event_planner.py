@@ -1,17 +1,3 @@
-"""
-Unit 4 - Team of Role-Based Agents
-Project: Smart Event Planner
-Framework: LangGraph
-No paid API or external LLM required. The agents use transparent rules so the
-same run can be reproduced during evaluation.
-
-Install:
-    pip install langgraph
-
-Run:
-    python smart_event_planner.py
-"""
-
 from typing import TypedDict, Any
 from langgraph.graph import StateGraph, END
 
